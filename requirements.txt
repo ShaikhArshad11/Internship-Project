@@ -1,0 +1,15 @@
+click
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+flask
+pandas
+numpy
+pymongo
+seaborn
+matplotlib
+pymongo
+sklearn
+-e .
